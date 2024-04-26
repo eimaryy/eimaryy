@@ -17,5 +17,5 @@
 
 <div style="display: inline_block" align="center" >
 <p><img src="https://github-readme-stats.vercel.app/api/?username=eimaryy&style=for-the-badge&show_icons=true&theme=dark&rank_icon=github"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimaryy&layout=compact&langs_count=7&theme=dark"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimaryy&layout=compact&langs_count=7&theme=dark"/></p>
 </div>
